@@ -1,2 +1,13 @@
 MCU1/.metadata 
-MCU1/*/Drivers 
+MCU1/*/Drivers
+!MCU1/STM32F4XX_Drivers/drivers
+MCU1/STM32F4XX_Drivers/Debug/*
+MCU1/STM32F4XX_Drivers/.settings
+MCU1/STM32F4XX_Drivers/Inc
+MCU1/*/.settings
+MCU1/*/Startup
+MCU1/*/Debug
+*.launch
+*.ld
+*.cproject
+
